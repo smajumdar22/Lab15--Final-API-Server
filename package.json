@@ -1,0 +1,35 @@
+{
+  "name": "Lab15-Module 3 APIServer",
+  "version": "1.0.0",
+  "description": "## API Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Shubham/Lab15--Final-API-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Shubham/Lab15--Final-API-Server/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Shubham/Lab15--Final-API-Server#readme",
+  "devDependencies": {
+    "@code-fellows/supergoose": "^1.0.1",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "bcrypt": "^3.0.8",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.11",
+    "morgan": "^1.9.1"
+  }
+}
