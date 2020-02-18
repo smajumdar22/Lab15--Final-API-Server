@@ -5,7 +5,7 @@
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab-Authentication/pull/1)
+* [submission PR](https://github.com/smajumdar22/Lab15--Final-API-Server/blob/Dev2/README.md)
 * [Github Actions](https://github.com/401-advanced-javascript-Shubham/Lab-Authentication/actions)
 
 #### Documentation
